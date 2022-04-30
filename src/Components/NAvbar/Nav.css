@@ -1,0 +1,29 @@
+
+nav{
+z-index: 5;
+overflow-x: hidden;
+}
+
+.navbar-toggler {
+    height: 40px;
+    width: 50px;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Nav-btn-img{
+    object-fit: contain;
+height: 40px;
+width: 40px;
+}
+
+.collapse ul a{
+    /* background-color: rgba(237, 243, 248, 0.733); */
+    border: none;
+    border-radius: 10px;
+    color: black;
+}
+

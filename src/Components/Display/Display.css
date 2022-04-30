@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.dis-text h1{
+    font-family: 'Bebas Neue', cursive; 
+    font-weight: bolder;
+    letter-spacing: 8px;
+    font-size: 60px;
+}
+
+.dis-text p{
+    letter-spacing: 2px;
+    font-size: 10px;
+}
+
+
+.my-container{
+    height: 15vh;
+    margin: 50px 0px ;
+}
+
+.dis-pic-1, .dis-pic-2, .dis-pic-3,.dis-pic-4 ,.dis-pic-5 ,.dis-pic-6  {
+    margin-bottom: 20px;
+    object-fit: contain;
+    height: 500px;
+   
+}
+

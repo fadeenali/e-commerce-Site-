@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cartimg{
+    height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
+
+.quantity-box{
+    /* margin: 1px; */
+    height: 30px;
+    width: 40px;
+    border: 1px solid black ;
+}
+
+.GrandTotal{
+    border-left:  1px solid black;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
